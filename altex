@@ -1,0 +1,8 @@
+[[CURRENCIES]]
+code="ALTEX"
+issuer="GDOT7C2YYDQN33BRSQ3L5JZ3LBMIFSRYE7OZ3EOOU4LPR4TFRRLTZALT"
+display_decimals=4
+name="ALTEX"
+desc="1 ALTEX token represent 1 ALTEX in the world"
+conditions="There will only ever be 100,000,000 ALTEX tokens in existence."
+image="https://altexs.com/ALTEX%20IMAGE/460.png"
