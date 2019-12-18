@@ -1,0 +1,8 @@
+[[CURRENCIES]]
+code="COMETX"
+issuer="GCFSSGQ4HFGKIPLMHENBYTN7YE5ZEQFLBKLKZ3AI44EHL2BIVK3VK65R"
+display_decimals=4
+name="COMETX"
+desc="CometX (CXO) is part of the Comet14 project, aimed at built large community in the world cryptocurrency, cometX can be owned for everyone."
+conditions="There will only ever be 14,000,000,000 COMETX tokens in existence."
+image="https://comet-x.org/image/cxo460.png"
